@@ -73,14 +73,6 @@ Passionate about **web architecture, clean code, and always learning**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devaertonfilho&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaertonfilho&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🚀 Philosophy
 
