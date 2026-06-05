@@ -24,7 +24,7 @@ Passionate about **web architecture, clean code, and always learning**.
     <img src="https://img.shields.io/badge/YouTube-AERTON%20FILHO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://discord.gg/jkWVF895fn">
-    <img src="https://img.shields.io/badge/Discord-AERTON%20FILHO-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-HIBELLI-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
